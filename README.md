@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aneesh Kaleru</h1>
+<h1 align="center">Hi 👋🏻, I'm Aneesh Kaleru</h1>
 <h3 align="center">A dedicated programmer and web developer from India, focused on creating intuitive and engaging user experiences with a passion for blending design and technology.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" >
